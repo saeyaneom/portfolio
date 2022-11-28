@@ -65,10 +65,12 @@ h1, h2, h3, h4, h5,
 }
 
 .screenshot {
-	height: 10em;
+	height: 150px;
 }
 
 .screenshot .img{
+	position:absolute;
+	height: 100%;
 	object-fit: scale-down;
 }
 
