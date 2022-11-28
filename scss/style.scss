@@ -64,6 +64,13 @@ h1, h2, h3, h4, h5,
 	color: $primary!important;
 }
 
+.screenshot {
+	height: 10em;
+}
+
+.screenshot .img{
+	object-fit: scale-down;
+}
 
 .ftco-navbar-light {
 	background: transparent!important;
