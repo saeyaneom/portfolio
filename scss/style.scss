@@ -743,6 +743,12 @@ h1, h2, h3, h4, h5,
 		font-size: 30px;
 		margin-bottom: 30px;
 		color: $primary;
+		.detail{
+			padding-top:20px;
+			color: $darken;
+			font-size: 15px;
+			font-weight: 500;
+		}
 	}
 }
 
