@@ -9587,7 +9587,17 @@ textarea.form-control {
 }
 
 .position{
-  text-align: right;
+  font-weight: 400;
+}
+
+.tools{
+  color: black; 
+  background-color:gainsboro;
+  font-weight: 10em; 
+  width:auto; 
+  border-radius: 8px 8px; 
+  padding: 4px 5px; 
+  margin: 4px 4px;
 }
 
 
