@@ -9604,7 +9604,7 @@ textarea.form-control {
   border-radius: 8px 8px; 
   padding: 4px 5px 4px 5px; 
   margin: 4px 4px;
-  max-width: 60%;
+  max-width: fit-content;
 }
 
 
